@@ -1,5 +1,5 @@
 package grafico;
-
+//Integrantes: William Concepcion, Wilson Wang, Emmanuel Hernandez
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JPanel;

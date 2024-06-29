@@ -1,5 +1,5 @@
 package main;
-
+//Integrantes: William Concepcion, Wilson Wang, Emmanuel Hernandez
 import java.lang.String;
 
 public class Estudiantes {

@@ -1,7 +1,7 @@
 package main;
-
+//Integrantes: William Concepcion, Wilson Wang, Emmanuel Hernandez
 import java.util.ArrayList;
-import main.Estudiantes;
+
 
 public class Becas {
     private static final int MAX_ESTUDIANTES = 100;
