@@ -133,6 +133,11 @@ public class Busqueda extends JFrame {
         btnBsquedaDeBecados.setFont(new Font("Tahoma", Font.PLAIN, 18));
         btnBsquedaDeBecados.setBounds(303, 162, 207, 34);
         contentPane.add(btnBsquedaDeBecados);
+        
+        JLabel lblBsquedaDeBecados = new JLabel("Búsqueda de becados");
+        lblBsquedaDeBecados.setFont(new Font("Tahoma", Font.PLAIN, 17));
+        lblBsquedaDeBecados.setBounds(303, 55, 165, 22);
+        contentPane.add(lblBsquedaDeBecados);
     }
 
     private Estudiantes buscarEstudiantePorCedula(String cedula) {
